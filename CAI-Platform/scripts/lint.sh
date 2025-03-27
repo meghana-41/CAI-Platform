@@ -1,0 +1,1 @@
+Linting script to maintain code quality.
